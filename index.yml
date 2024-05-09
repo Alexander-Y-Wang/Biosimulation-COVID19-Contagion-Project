@@ -1,0 +1,8 @@
+title: Modeling COVID-19 Spread and Management - Incorporating Age, Social Distancing, Mortality, and Hospitalization in a 
+  Network-Based Simulation Approach
+author: Alexander Wang & Nicholas Fioravanti
+abstract: Understanding the dynamics of epidemic spread is crucial for the implementation of effective public health measures. 
+  Particularly, quantifying the impact of quarantine - a common countermeasure - on disease progression can provide valuable 
+  insights to guide public health policies. Through the implementation of a network model, we demonstrate that institutions of 
+  varying degrees of quarantining can not only decrease the proportions of exposure and susceptibility to the pathogen COVID-19, 
+  but extinguish infection faster.
