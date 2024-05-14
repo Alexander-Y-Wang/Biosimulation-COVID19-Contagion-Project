@@ -4,7 +4,7 @@
 ### Alexander Wang & Nicholas Fioravanti
 - --
 ##### __Summary__
-This file utilizes markdown language to present an overview of all of the files necessary for Team 3's contact network for COVID-19 transmission. 
+
 ##### __Files__
 - File 1: project.mlx
     - This is a matlab live script file that houses the main code for our project. It will run through both replicated results from Hou et al. as well as our own created contact network for COVID-19 transmission. It utilizes another file called basic_model.m that is referenced later. 
