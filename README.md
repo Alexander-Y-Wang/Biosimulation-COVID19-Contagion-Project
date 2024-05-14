@@ -4,7 +4,7 @@
 ### Alexander Wang & Nicholas Fioravanti
 - --
 ##### __Summary__
-
+Understanding the dynamics of epidemic spread is crucial for the implementation of effective public health measures. Particularly, quantifying the impact of quarantine - a common countermeasure - on disease progression can provide valuable insights to guide public health policies. Through the implementation of a network model, we demonstrate that institutions of varying degrees of quarantining can not only decrease the proportions of exposure and susceptibility to the pathogen COVID-19, but extinguish infection faster. 
 ##### __Files__
 - File 1: project.mlx
     - This is a matlab live script file that houses the main code for our project. It will run through both replicated results from Hou et al. as well as our own created contact network for COVID-19 transmission. It utilizes another file called basic_model.m that is referenced later. 
